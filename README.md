@@ -1,0 +1,2 @@
+# Sercan
+Yazılım yapacam
